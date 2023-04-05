@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9E3A-621D
+
+ Directory of C:\Details\Udemy\test_git project
+
+2023-04-05  12:15 AM    <DIR>          .
+2023-04-05  12:07 AM    <DIR>          ..
+2023-04-05  12:06 AM    <DIR>          .git
+2023-04-05  12:05 AM               496 index.html
+2023-04-02  03:26 PM                 0 test1.txt
+2023-04-04  08:37 PM               445 test2.txt
+2023-04-05  12:15 AM                 0 testxyz.txt
+               4 File(s)            941 bytes
+               3 Dir(s)  402,836,168,704 bytes free
